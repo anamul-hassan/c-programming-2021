@@ -1,0 +1,2 @@
+  int Id;
+    float Salary;
